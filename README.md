@@ -25,13 +25,13 @@
 # Star 🌟 Fork 🍴 & Deploy
 
 ### -Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AmineSoukara/ImgBB-Bot/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sarfarazstark/ImgBB-Bot/tree/main)
 
 ### -Self-hosting (For Devs)
 
 ```python3
 ## Clone The Repo
-git clone https://github.com/AmineSoukara/ImgBB-Bot
+git clone https://github.com/sarfarazstark/ImgBB-Bot
 ## Enter The Directory
 cd ImgBB-Bot
 ## Install Requirements
@@ -52,4 +52,4 @@ python3 main.py
 
 
 # Support 
-<a href="https://t.me/damienhelp"><img src="https://img.shields.io/badge/Support_Group-1a66ff?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://t.me/damiensoukara"><img src="https://img.shields.io/badge/Updates_Channel-1a66ff?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://t.me/bluewhalegroup"><img src="https://img.shields.io/badge/Support_Group-1a66ff?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://t.me/bluewhalebots"><img src="https://img.shields.io/badge/Updates_Channel-1a66ff?style=for-the-badge&logo=telegram&logoColor=white"></a>
