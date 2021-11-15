@@ -8,9 +8,9 @@
         "Image",
         "ImgBB"
     ],
-    "repository": "https://github.com/AmineSoukara/ImgBB-Bot",
-    "website": "https://telegram.dog/AmineSoukara",
-    "success_url": "https://t.me/DamienSoukara",
+    "repository": "https://github.com/sarfarazstark/ImgBB-Bot",
+    "website": "https://telegram.dog/BlueWhalebots",
+    "success_url": "https://t.me/BlueWhaleBots",
     "env": {
         "API_ID": {
             "description": "Get this value from my.telegram.org",
